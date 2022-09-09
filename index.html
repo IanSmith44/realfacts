@@ -4,7 +4,34 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>RealFacts</title>
+    <title>My App</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <link rel="manifest" href="manifest.json" />
   </head>
-  <body></body>
+  <body>
+    <h1>Hello World</h1>
+    <a href="https://covid.cdc.gov/covid-data-tracker/">free virus</a>
+    <form>
+      <label for="ans1">
+        Does Zarin=Nerd yes or no
+      </label>
+      <input type="text" name="answer1" id="ans1" />
+      <br />
+      <input type="submit" value="Submit" />
+    </form>
+
+    <div>
+      <img src="logo.png" alt="Logo" width="50" />
+      <br />
+      <a href="about.html">About this app</a>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("service-worker.js");
+      }
+    </script>
+  </body>
 </html>
