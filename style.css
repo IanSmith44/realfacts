@@ -1,5 +1,17 @@
+#logo {
+  width: 10%;
+}
+#menu {
+  margin-top: 10px;
+}
+#box {
+  color: rgb(0, 0, 0);
+  background-color: rgba(255, 255, 255, 0.514);
+  text-align: center;
+  border: 3px solid black;
+  margin-top: 10px;
+}
 body {
-  font-family: Arial, Helvetica, sans-serif;
   background: rgb(2, 0, 36);
   background: linear-gradient(
     270deg,
@@ -8,7 +20,19 @@ body {
     rgba(0, 212, 255, 1) 100%
   );
 }
-
-div {
-  margin-top: 1.5em;
+#earthphoto {
+  width: 30%;
+  margin-bottom: 10px;
+}
+#vaccineBrain {
+  width: 85%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#flatreadbutton {
+  margin-bottom: 10px;
+}
+#teenVaccines {
+  width: 100%;
+  margin-bottom: 10px;
 }
