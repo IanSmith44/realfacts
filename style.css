@@ -2,14 +2,16 @@
   width: 10%;
 }
 #menu {
-  margin-top: 10px;
+  margin-bottom: 20px;
+}
+#row {
+  height: 80%;
 }
 #box {
   color: rgb(0, 0, 0);
-  background-color: rgba(0, 255, 0, 0.514);
+  background-color: rgba(0, 255, 0, 1);
   text-align: center;
   border: 3px solid black;
-  margin-top: 10px;
 }
 body {
   background: rgb(2, 0, 36);
@@ -30,16 +32,37 @@ body {
   margin-bottom: 10px;
 }
 #flatreadbutton {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
+  color: rgba(255, 34, 173, 1);
 }
 #teenVaccines {
   width: 100%;
   margin-bottom: 10px;
 }
 #link {
-  color: rgba(255, 0, 255, 1);
+  color: rgba(0, 255, 0, 1);
 }
 #homebox {
+  text-align: center;
   border: 3px solid black;
-  margin-bottom: 3px;
+  margin-bottom: 15px;
+  background-color: rgba(0, 150, 255, 1);
+}
+#vaccinebutton {
+  color: rgba(255, 34, 173, 1);
+}
+#flatbox {
+  text-align: center;
+  background-color: rgba(9, 100, 121, 1);
+}
+#vaccinebox {
+  text-align: center;
+  background-color: rgba(9, 100, 121, 1);
+}
+#titanicbutton {
+  color: rgba(255, 34, 173, 1);
+}
+#titanicjpg {
+  margin: 10px;
+  width: 97.5%;
 }
