@@ -53,14 +53,14 @@ body {
   color: rgba(255, 34, 173, 1);
 }
 #flatbox {
-  color: solid white;
+  color: white;
   text-align: center;
   border: 3px solid black;
   background-color: rgba(68, 1, 128, 0.8);
   margin-bottom: 15px;
 }  
 #vaccinebox {
-  color: solid white;
+  color: white;
   text-align: center;
   border: 3px solid black;
   background-color: rgba(68, 1, 128, 0.8);
