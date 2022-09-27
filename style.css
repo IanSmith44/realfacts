@@ -55,13 +55,13 @@ body {
 #flatbox {
   text-align: center;
   border: 3px solid black;
-  background-color: rgba(255, 0, 0, 1);
+  background-color: rgba(68, 1, 128, 0.8);
   margin-bottom: 15px;
 }  
 #vaccinebox {
   text-align: center;
   border: 3px solid black;
-  background-color: rgba(255, 0, 0, 1);
+  background-color: rgba(68, 1, 128, 0.8);
   margin-bottom: 15px;
 }
 #titanicbutton {
@@ -70,4 +70,10 @@ body {
 #titanicjpg {
   margin: 10px;
   width: 97.5%;
+}
+#flatEarthCitation {
+  margin-bottom: 10px;
+}
+#titanicCitation {
+  margin-bottom: 10px;
 }
