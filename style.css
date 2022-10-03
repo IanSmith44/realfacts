@@ -79,3 +79,36 @@ body {
 #titanicCitation {
   margin-bottom: 10px;
 }
+#mathbox {
+  color: white;
+  text-align: center;
+  border: 3px solid black;
+  background-color: rgba(68, 1, 128, 0.8);
+  margin-bottom: 15px;
+}
+#fakeMath {
+  margin: 10px;
+  width: 65%;
+}
+#BirdImg {
+  margin: 10px;
+  width: auto;
+}
+#birdbox {
+  color: white;
+  text-align: center;
+  border: 3px solid black;
+  background-color: rgba(68, 1, 128, 0.8);
+  margin-bottom: 15px;
+}
+#beeBox {
+  color: white;
+  text-align: center;
+  border: 3px solid black;
+  background-color: rgba(68, 1, 128, 0.8);
+  margin-bottom: 15px;
+}
+#BeeImg {
+  margin: 10px;
+  width: 90%;
+}
