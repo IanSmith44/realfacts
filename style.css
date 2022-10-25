@@ -1,3 +1,4 @@
+/* Navbar stuff start */
 #logo {
   margin-top: 5px;
   margin-right: 10px;
@@ -13,6 +14,8 @@
 #row {
   height: 80%;
 }
+/* End Navbar Stuff */
+/* Start Main Body */
 #box {
   color: rgb(0, 0, 0);
   background-color: rgba(0, 255, 0, 1);
@@ -28,6 +31,7 @@ body {
     rgba(9, 9, 121, 1) 32%,
     rgba(0, 212, 255, 1) 100%);
 }
+  /* Start of grid things */
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
@@ -56,6 +60,7 @@ body {
   font-size: 30px;
   text-align: center;
 }
+  /* End of grid things */
 #earthphoto {
   width: 30%;
   margin-bottom: 10px;
@@ -153,3 +158,4 @@ body {
   width: auto;
   height: auto;
 }
+/* End Main Body Stuff */
