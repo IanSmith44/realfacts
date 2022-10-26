@@ -62,7 +62,7 @@ body {
 }
   /* End of grid things */
 #earthphoto {
-  width: 30%;
+  width: 80%;
   margin-bottom: 10px;
 }
 #vaccineBrain {
@@ -89,6 +89,27 @@ body {
 }
 #vaccinebutton {
   color: rgba(255, 34, 173, 1);
+}
+#birdbutton {
+  color: rgba(255, 34, 173, 1);
+}
+#birdfishjpg {
+  margin: 10px;
+  width: 97.5%;
+}
+#beebutton {
+  color: rgba(255, 34, 173, 1);
+}
+#beejpg {
+  margin: 10px;
+  width: 97.5%;
+}
+#animalbutton {
+  color: rgba(255, 34, 173, 1);
+}
+#animaljpg {
+  margin: 10px;
+  width: 97.5%;
 }
 #flatbox {
   color: white;
