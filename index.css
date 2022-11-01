@@ -55,6 +55,9 @@ body {
   text-align: center;
 }
 /* End of grid things */
+#featured {
+  margin: 0.5rem;
+}
 #earthphoto {
   width: 80%;
   margin-bottom: 10px;
