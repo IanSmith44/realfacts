@@ -39,7 +39,7 @@ body {
 .grid-container {
   display: inline-grid;
   grid-template-columns: auto auto auto;
-  background-color: #2196F3;
+  background-color: firebrick;
   padding: 10px;
 }
 #grid-item {
