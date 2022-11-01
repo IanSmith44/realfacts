@@ -107,11 +107,12 @@ body {
   color: rgba(0, 255, 0, 1);
 }
 #menu-row {
-  background-color: DarkSlateGray;
+  background-color: midnightblue;
+  border: 0.25rem;
 }
 #homebox {
   text-align: center;
-  border: 3px solid black;
+  border: 0.25rem solid black;
   margin: 15px;
   background-color: rgba(0, 150, 255, 1);
 }
