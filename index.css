@@ -53,22 +53,7 @@ body {
   font-size: 30px;
   text-align: center;
 }
-#grid-item-middle {
-  border-radius: 0.25rem;
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
-}
-#grid-item-middle-row {
-  border-radius: 0.25rem;
-  border-right: 2px solid black;
-  border-left: 2px solid black;
-}
-.grid-item-middle-row {
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
-}
-  /* End of grid things */
+/* End of grid things */
 #earthphoto {
   width: 80%;
   margin-bottom: 10px;
