@@ -46,7 +46,7 @@ body {
 #grid-item {
   border-radius: 0.25rem;
   border: 2px solid black;
-  margin: 1rem;
+  margin: 0.5rem;
 }
 .grid-item {
   background-color: rgba(175, 175, 175, 0.911);
