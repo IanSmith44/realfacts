@@ -39,7 +39,6 @@ body {
 .grid-container {
   display: inline-grid;
   grid-template-columns: auto auto auto;
-  background-color: firebrick;
   padding: 10px;
 }
 #grid-item {
@@ -88,7 +87,7 @@ body {
   border: 3px solid black;
   margin: 15px;
   border-radius: 0.25rem;
-  background-color: rgba(0, 150, 255, 1);
+  background-color: firebrick;
 }
 #vaccinebutton {
   color: rgba(255, 34, 173, 1);
