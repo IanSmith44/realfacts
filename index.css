@@ -112,7 +112,7 @@ body {
 #homebox {
   text-align: center;
   border: 3px solid black;
-  margin-bottom: 15px;
+  margin: 15px;
   background-color: rgba(0, 150, 255, 1);
 }
 #vaccinebutton {
