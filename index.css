@@ -89,7 +89,7 @@ body {
 #menu-row {
   border-radius: 0.25rem;
   background-color: midnightblue;
-  border: 3px solid darkslategray;
+  border: 1rem solid black;
 }
 #homebox {
   text-align: center;
