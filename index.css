@@ -6,7 +6,7 @@
   width: 50px;
 }
 #menu {
-  margin-bottom: 20px;
+  margin-bottom: 1rem;
 }
 #collapsibleNavbar {
   height: auto;
@@ -21,7 +21,7 @@
   background-color: rgba(0, 255, 0, 1);
   text-align: center;
   border: 3px solid black;
-  margin-bottom: 15px;
+  margin-bottom: 1rem;
 }
 html {
   font-size: 22px;
@@ -36,27 +36,6 @@ body {
     rgba(0, 212, 255, 1) 100%);
 }
   /* Start of grid things */
-.card {
-  background-color: dodgerblue;
-  color: white;
-  padding: 1rem;
-  height: 4rem;
-}
-.cards {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: grid;
-  grid-gap: 1rem;
-}
-/* Screen larger than 600px? 2 column */
-@media (min-width: 600px) {
-  .cards { grid-template-columns: repeat(2, 1fr); }
-}
-
-/* Screen larger than 900px? 3 columns */
-@media (min-width: 900px) {
-  .cards { grid-template-columns: repeat(3, 1fr); }
-}
 .grid-container {
   display: inline-grid;
   grid-template-columns: auto auto auto;
@@ -108,11 +87,11 @@ body {
 }
 #menu-row {
   background-color: midnightblue;
-  border: 0.1875rem;
+  border: 3px;
 }
 #homebox {
   text-align: center;
-  border: 0.1875rem solid black;
+  border: 3px solid black;
   margin: 15px;
   background-color: rgba(0, 150, 255, 1);
 }
