@@ -1,4 +1,7 @@
 /* Navbar stuff start */
+#topnav {
+  margin-top: -1rem;
+}
 body {margin: 0;}
 
 ul.topnav {
