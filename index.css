@@ -49,6 +49,7 @@ body {
   margin: 0.5rem;
 }
 .grid-item {
+  color: gainsboro;
   background-color: darkslateblue;
   padding: 1rem;
   font-size: 2rem;
