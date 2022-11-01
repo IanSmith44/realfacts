@@ -27,3 +27,23 @@ body {
   height: 80%;
 }
 /* End Navbar Stuff */
+#box {
+  color: rgb(0, 0, 0);
+  background-color: rgba(0, 255, 0, 1);
+  text-align: center;
+  border: 3px solid black;
+  margin-bottom: 15px;
+}
+#earthphoto {
+  width: 80%;
+  margin-bottom: 10px;
+}
+#flatreadbutton {
+  margin-bottom: 10px;
+  color: rgba(255, 34, 173, 1);
+}
+#vaccineBrain {
+  width: 85%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

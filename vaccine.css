@@ -27,3 +27,14 @@ body {
   height: 80%;
 }
 /* End Navbar Stuff */
+#vaccinebox {
+  color: white;
+  text-align: center;
+  border: 3px solid black;
+  background-color: rgba(68, 1, 128, 0.8);
+  margin-bottom: 15px;
+}
+#teenVaccines {
+  width: 100%;
+  margin-bottom: 10px;
+}

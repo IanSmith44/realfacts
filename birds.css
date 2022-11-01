@@ -27,3 +27,14 @@ body {
   height: 80%;
 }
 /* End Navbar Stuff */
+#birdbox {
+  color: white;
+  text-align: center;
+  border: 3px solid black;
+  background-color: rgba(68, 1, 128, 0.8);
+  margin-bottom: 15px;
+}
+#birdImg {
+  margin: 10px;
+  width: auto;
+}

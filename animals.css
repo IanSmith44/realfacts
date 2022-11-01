@@ -27,3 +27,13 @@ body {
   height: 80%;
 }
 /* End Navbar Stuff */
+#animalbox {
+  color: white;
+  text-align: center;
+  border: 3px solid black;
+  background-color: rgba(68, 1, 128, 0.8);
+  margin-bottom: 15px;
+}
+#bat {
+  width: auto;
+  height: auto;

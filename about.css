@@ -27,3 +27,10 @@ body {
   height: 80%;
 }
 /* End Navbar Stuff */
+#box {
+  color: rgb(0, 0, 0);
+  background-color: rgba(0, 255, 0, 1);
+  text-align: center;
+  border: 3px solid black;
+  margin-bottom: 15px;
+}

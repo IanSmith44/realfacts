@@ -27,3 +27,16 @@ body {
   height: 80%;
 }
 /* End Navbar Stuff */
+#flatbox {
+  color: white;
+  text-align: center;
+  border: 3px solid black;
+  background-color: rgba(68, 1, 128, 0.8);
+  margin-bottom: 15px;
+}
+#link {
+  color: rgba(0, 255, 0, 1);
+}
+#flatEarthCitation {
+  margin-bottom: 10px;
+}
