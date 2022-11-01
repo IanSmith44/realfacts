@@ -1,21 +1,34 @@
 /* Navbar stuff start */
-/*
-#logo {
-  margin-top: 5px;
-  margin-right: 10px;
-  margin-left: -10px;
-  width: 50px;
+body {margin: 0;}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
-#menu {
-  margin-bottom: 1rem;
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
-#collapsibleNavbar {
-  height: auto;
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #04AA6D;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
 }
-#row {
-  height: 80%;
-}
-*/
 /* End Navbar Stuff */
 /* Start Main Body */
 #box {
