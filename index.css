@@ -44,6 +44,7 @@ body {
   padding: 10px;
 }
 #grid-item {
+  border-radius: 0.25rem;
   border: 2px solid black;
 }
 .grid-item {
@@ -53,10 +54,12 @@ body {
   text-align: center;
 }
 #grid-item-middle {
+  border-radius: 0.25rem;
   border-top: 2px solid black;
   border-bottom: 2px solid black;
 }
 #grid-item-middle-row {
+  border-radius: 0.25rem;
   border-right: 2px solid black;
   border-left: 2px solid black;
 }
