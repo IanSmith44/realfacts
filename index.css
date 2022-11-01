@@ -53,12 +53,12 @@ body {
   text-align: center;
 }
 #grid-item-middle {
-  border-top: 2px solid rgba(0, 0, 0, 0.8);
-  border-bottom: 2px solid rgba(0, 0, 0, 0.8);
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
 }
 #grid-item-middle-row {
-  border-right: 2px solid rgba(0, 0, 0, 0.8);
-  border-left: 2px solid rgba(0, 0, 0, 0.8);
+  border-right: 2px solid black;
+  border-left: 2px solid black;
 }
 .grid-item-middle-row {
   padding: 20px;
@@ -89,7 +89,7 @@ body {
 #menu-row {
   border-radius: 0.25rem;
   background-color: midnightblue;
-  border: 1rem solid black;
+  border: 3px solid black;
 }
 #homebox {
   text-align: center;
