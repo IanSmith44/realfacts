@@ -34,6 +34,40 @@ ul.topnav li.right {float: right;}
 }
 /* End Navbar Stuff */
 /* Start Main Body */
+/* Start Bad Grid Test */
+html { font-size: 22px; }
+body { padding: 1rem; }
+
+.card {
+  background-color: darkslateblue;
+  color: white;
+  height: auto;
+  padding: 1rem;
+  border: 3px solid black;
+  border-radius: 0.25rem;
+  text-align: center;
+  margin: 0.5rem;
+  align-items: center;
+}
+
+.cards {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 1rem;
+}
+
+/* Screen larger than 600px? 2 column */
+@media (min-width: 600px) {
+  .cards { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* Screen larger than 900px? 3 columns */
+@media (min-width: 900px) {
+  .cards { grid-template-columns: repeat(3, 1fr); }
+}
+
+/* End Bad Grid Test */
 #box {
   color: black;
   background-color: firebrick;
@@ -100,6 +134,7 @@ body {
   border-radius: 0.25rem;
   background-color: midnightblue;
   border: 3px solid black;
+  padding: 0.5rem;
 }
 #homebox {
   text-align: center;
